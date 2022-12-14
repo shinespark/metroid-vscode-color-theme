@@ -2,6 +2,8 @@
   "name": "metroid-vscode-color-theme",
   "displayName": "Metroid",
   "description": "Metroid inspired color theme",
+  "publisher": "shinespark",
+  "repository": "github:shinespark/metroid-vscode-color-theme",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.73.0"
@@ -17,6 +19,5 @@
         "path": "./themes/Metroid-color-theme.json"
       }
     ]
-  },
-  "repository": "github:shinespark/metroid-vscode-color-theme"
+  }
 }

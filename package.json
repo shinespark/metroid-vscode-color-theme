@@ -17,5 +17,6 @@
         "path": "./themes/Metroid-color-theme.json"
       }
     ]
-  }
+  },
+  "repository": "github:shinespark/metroid-vscode-color-theme"
 }

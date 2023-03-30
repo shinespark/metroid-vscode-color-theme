@@ -1,16 +1,9 @@
-# metroid-vscode-color-theme README
+# metroid-vscode-color-theme
 
-## Working with Markdown
-
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+This VSCode theme is inspired by the Metroid series, offering developers an exciting and comfortable development environment with colors and designs that reflect the game's world. Clear and readable text, along with iconic visual elements, improve code visibility and increase productivity. By decorating your code with this theme, you can immerse yourself in the game's universe and embark on new adventures.
 
 ## For more information
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+* [Color Theme \| Visual Studio Code Extension API](https://code.visualstudio.com/api/extension-guides/color-theme#create-a-new-color-theme)
 
 **Enjoy!**

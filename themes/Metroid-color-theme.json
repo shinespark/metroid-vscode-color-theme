@@ -11,7 +11,8 @@
 		"sideBarTitle.foreground": "#59c3ad",
 		"statusBar.background": "#59c3ad",
 		"statusBar.foreground": "#000000",
-		"editorInlayHint.foreground": "#c7c7c7"
+		"editorInlayHint.foreground": "#c7c7c7",
+		"editorWhitespace.foreground": "#398E92"
 	},
 	"tokenColors": [
 		{
